@@ -1,2 +1,3 @@
-# .emacs.d
+# emacs.d
+
 My emacs config

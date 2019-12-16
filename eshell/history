@@ -1,0 +1,47 @@
+cd ~/Programming/
+mkdir sandbox
+cd sandbox/
+mkdir autotools_example
+cd ~/Programming/sedaman/
+ls
+cd ..
+ls
+mkdir sedaman_debug
+cd sedaman_debug/
+ls
+cmake ../sedaman -DCMAKE_BUILD_TYPE=Debug
+ls
+ln -s compile_commands.json ~/Programming/sedaman/compile_commands.json
+cd ..
+ls
+cd sandbox/meson_test/
+ls
+mkdir src
+meson builddir
+meson builddir
+meson builddir
+ls
+ls builddir/
+ln -s builddir/compile_commands.json compile_commands.json
+ls
+cd builddir/
+ls
+ninja
+cd ..
+meson builddir
+cd builddir/
+ninja
+ls
+./demo@exe/
+cd ..
+./demo
+ls
+mkdir include
+mkdir src
+cp ../meson_test/include/my_class.hpp include/
+cp ../meson_test/src/* src/
+mkdir builddir
+cd builddir/
+cmake ..
+ls
+ln -s compile_commands.json ../compile_commands.json
