@@ -1,27 +1,5 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/andalevor/Programming/sedaman/src/isegy.cpp" . 661)
- ("/home/andalevor/Programming/segyfile/src/isegy.rs" . 1952)
- ("/home/andalevor/.emacs.d/init.el" . 6214)
- ("/home/andalevor/Programming/sedaman/include/trace.hpp" . 1194)
- ("/home/andalevor/Programming/sedaman/src/config.cpp" . 238)
- ("/home/andalevor/Programming/sedaman/src/trace.cpp" . 1333)
+(("/home/andalevor/.emacs.d/init.el" . 5986)
  ("/home/andalevor/.emacs.d/recentf" . 977)
- ("/home/andalevor/Programming/sandbox/meson_test/"
-  (dired-filename . "/home/andalevor/Programming/sandbox/meson_test/src"))
- ("/home/andalevor/Programming/sandbox/meson_test/src/"
-  (dired-filename . "/home/andalevor/Programming/sandbox/meson_test/src/main.cpp"))
- ("/home/andalevor/Programming/sandbox/meson_test/src/main.cpp" . 64)
- ("/home/andalevor/Programming/sandbox/cmake_test/src/main.cpp" . 64)
- ("/home/andalevor/Programming/sandbox/meson_test/src/my_class.cpp" . 94)
- ("/home/andalevor/Programming/sandbox/cmake_test/src/my_class.cpp" . 10)
  ("/home/andalevor/"
-  (dired-filename . "/home/andalevor/Programming"))
- ("/home/andalevor/Programming/"
-  (dired-filename . "/home/andalevor/Programming/sandbox"))
- ("/home/andalevor/Programming/sandbox/"
-  (dired-filename . "/home/andalevor/Programming/sandbox/cmake_test"))
- ("/home/andalevor/Programming/sandbox/cmake_test/" . 209)
- ("/home/andalevor/Programming/sandbox/cmake_test/CMakeLists.txt" . 64)
- ("/home/andalevor/Programming/sandbox/meson_test/meson.build" . 153)
- ("/home/andalevor/Programming/sandbox/meson_test/include/my_class.hpp" . 91)
- ("/home/andalevor/Programming/sandbox/autotools_example/main.c" . 11))
+  (dired-filename . "/home/andalevor/Programming")))

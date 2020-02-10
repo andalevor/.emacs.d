@@ -158,6 +158,7 @@ There are two things you can do about this warning:
   :hook (c-mode . lsp)
   :hook (c++-mode . lsp)
   :hook (rust-mode . lsp)
+  :hook (python-mode . lsp)
   :commands lsp)
 
 (use-package lsp-ui
