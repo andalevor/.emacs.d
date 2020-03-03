@@ -1,0 +1,4 @@
+cd Programming/segy-rs/
+ls
+git status
+git pull

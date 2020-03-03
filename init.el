@@ -155,6 +155,8 @@ There are two things you can do about this warning:
 
 (use-package lsp-mode
   :ensure t
+  :init
+  (setq lsp-rust-server 'rust-analyzer)
   :hook (c-mode . lsp)
   :hook (c++-mode . lsp)
   :hook (rust-mode . lsp)
